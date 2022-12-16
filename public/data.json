@@ -1,0 +1,560 @@
+[
+	{
+		"id": 1,
+		"company": "MSI",
+		"title": "GF63 Thin 11UC Gaming Laptop Core i5 8GB 512GB SSD RTX 3050 144Hz 15.6 Inch Windows 11",
+		"details": "Processor - Intel Core i5 11400H || Graphics card - GeForce RTX 3050 4GB || Screen size - 15.6 Inch 1080 x 1920 144Hz Screen || RAM - 8GB || SSD - 512GB || Warranty - 1 year warranty || Operating System - Windows 11 Home",
+		"category": "laptop",
+		"image": "https://www.laptopsdirect.co.uk/Images/9S7-16R612-241_1_Supersize.jpg?v=7",
+		"price": 649.99
+	},
+	{
+		"id": 2,
+		"company": "Acer",
+		"title": "Aspire 5 A514-54-725K Core i7-1165G7 8GB 1TB SSD 14 Inch Windows 11 Laptop",
+		"details": "Processor - Intel Core i7 1165G7 || Screen size - 14 Inch Full HD Screen || RAM - 8GB || SSD - 1TB || Warranty - 3 Month Warranty || Operating System - Windows 11",
+		"category": "laptop",
+		"image": "https://www.laptopsdirect.co.uk/Images/A1NX.A68EK.001_1_8404968_Supersize.jpg?v=3",
+		"price": 549.99
+	},
+	{
+		"id": 3,
+		"company": "Fujitsu",
+		"title": "LifeBook E734 Core i5 4th Gen 8GB 500GB SSHD 13.3 Inch Windows 10 Professional Laptop",
+		"details": "Processor - Intel Core i5 || Screen size - 13.3 Inch 1366 x 768 Screen || RAM - 8GB || SSD - 500GB || Warranty - 1 year warranty || Operating System - Windows 10 Pro",
+		"category": "laptop",
+		"image": "https://www.laptopsdirect.co.uk/Images/T1E734i58GB500GBW10P_1_Supersize.jpg?v=18",
+		"price": 189.99
+	},
+	{
+		"id": 4,
+		"company": "Apple",
+		"title": "MacBook Pro 13 Inch M2 8GB RAM 256GB SSD 2022 - Space Grey",
+		"details": "Processor - M2 M2|| Graphics card - Apple M2 10-core || Screen size - 13 Inch 2560 x 1600 Screen || RAM - 8GB || SSD - 256GB || Warranty - 1 year warranty || Operating System - Mac OS",
+		"category": "laptop",
+		"image": "https://www.laptopsdirect.co.uk/Images/MNEH3BA_1_Supersize.jpg?v=4",
+		"price": 1219.99
+	},
+	{
+		"id": 5,
+		"company": "ASUS",
+		"title": "VivoBook Pro 14 K3400PA Core i5-11300H 8GB 512GB SSD 14 Inch Windows 10 Laptop",
+		"details": "Processor - Intel Core i5 11300H || Screen size - 14 Inch 2880 x 1800 Screen || RAM - 8GB || SSD - 512GB || Warranty - 1 year warranty || Operating System - Windows 10",
+		"category": "laptop",
+		"image": "https://www.laptopsdirect.co.uk/Images/K3400PA-KM017T_1_Supersize.jpg?v=3",
+		"price": 559.99
+	},
+	{
+		"id": 6,
+		"company": "Lenovo",
+		"title": "V14 ADA Laptop AMD Athlon 8GB 256GB SSD 14 Inch Windows 10",
+		"details": "Processor - AMD Athlon 3020E || Screen size - 13.3 Inch 1366 x 768 Screen || RAM - 8GB || SSD - 256GB || Warranty - 1 year warranty || Operating System - Windows 10",
+		"category": "laptop",
+		"image": "https://www.laptopsdirect.co.uk/Images/82C60057UK_1_Supersize.jpg?v=3",
+		"price": 289.99
+	},
+	{
+		"id": 7,
+		"company": "HP",
+		"title": "Chromebook 14-db0500sa AMD A4-9120 4GB 32GB SSD 14 Inch Chrome OS",
+		"details": "Processor - AMD A4 A4-9120 || Graphics card - AMD Radeon R3 || Screen size - 14 Inch 1366 x 768 Screen || RAM - 4GB || Warranty - 1 year warranty || Operating System - Google Chrome OS",
+		"category": "laptop",
+		"image": "https://www.laptopsdirect.co.uk/Images/5AT31EA_1_Supersize.jpg?width=650&height=650&v=2",
+		"price": 152.99
+	},
+	{
+		"id": 8,
+		"company": "Razer",
+		"title": "Blade 17 Core i7 16GB 1TB SSD RTX 3060 17.3 inch 360Hz Windows 10 Gaming Laptop",
+		"details": "Processor - Intel Core i7 11800H || Graphics card - GeForce RTX 3060 6GB || Screen size - 17.3 Inch Full HD Screen || RAM - 16GB || SSD - 1TB || Warranty - 1 year warranty || Operating System - Windows 10 Home 64-bit",
+		"category": "laptop",
+		"image": "https://www.laptopsdirect.co.uk/Images/RZ09-0406AWC3-R3W1_1_Supersize.png?v=3",
+		"price": 1499.99
+	},
+	{
+		"id": 9,
+		"company": "Dell",
+		"title": "VOSTRO 3510 Laptop Core i5 8GB 256GB SSD 15.6 Inch Windows 10 Pro",
+		"details": "Processor - Intel Core i5 11th Gen || Graphics card - Intel Iris Xe || Anti-glare Screen FHD 60Hz || Screen size - 15.6 Inch 1920 x 1080 Screen || RAM - 8GB || SSD - 256GB || Warranty - 1 year warranty || Operating System - Windows 10 Pro",
+		"category": "laptop",
+		"image": "https://www.laptopsdirect.co.uk/Images/HPWYT_1_Supersize.jpg?v=5",
+		"price": 619.99
+	},
+	{
+		"id": 10,
+		"company": "Medion",
+		"title": "Akoya E15407 Core i5-1035G1 8GB 256GB SSD 15.6 Inch Windows 11 Laptop",
+		"details": "Processor - Intel Core i5 1035G1 || Graphics card - UHD Graphics || Screen size - 15.6 Inch Full HD Screen || RAM - 8GB || SSD - 256GB || Warranty - 2 year warranty || Operating System - Windows 11",
+		"category": "laptop",
+		"image": "https://www.laptopsdirect.co.uk/Images/30033539_1_Supersize.png?v=83",
+		"price": 379.99
+	},
+	{
+		"id": 11,
+		"company": "Samsung",
+		"title": "Galaxy Buds2 Pro White",
+		"details": "Go Wireless and take your music anywhere || Quick Pairing || Best-in-class call quality || Bluetooth 5.3 || Up to5 hours playback per charge with 18 hours stored in the case || Compatible with Android and iOS || IPX7 Water sweat resistant",
+		"category": "headphone",
+		"image": "https://www.laptopsdirect.co.uk/Images/SM-R510NZWAEUA_1_Supersize.jpg?v=3",
+		"price": 169.99
+	},
+	{
+		"id": 12,
+		"company": "Samsung",
+		"title": "Galaxy Buds2 Graphite",
+		"details": "Go Wireless and take your music anywhere || Quick Pairing || Best-in-class call quality || Bluetooth 5.0 || Up to5 hours playback per charge with 18 hours stored in the case || Compatible with Android and iOS || IPX2 Water sweat resistant",
+		"category": "headphone",
+		"image": "https://www.laptopsdirect.co.uk/Images/SM-R177NZKAEUA_1_Supersize.jpg?v=12",
+		"price": 74.99
+	},
+	{
+		"id": 13,
+		"company": "Samsung",
+		"title": "Galaxy Buds Live - True Wireless Earbuds - Mystic Black",
+		"details": "Go Wireless and take your music anywhere || Quick Pairing || Best-in-class call quality || Bluetooth 5.0 || Up to6 hours playback per || Compatible with Android and iOS",
+		"category": "headphone",
+		"image": "https://www.laptopsdirect.co.uk/Images/SM-R180NZKAEUA_1_10338252_Supersize.jpg?v=5",
+		"price": 169.99
+	},
+	{
+		"id": 14,
+		"company": "Apple",
+		"title": "AirPods 3rd Gen with Lightning Charging Case",
+		"details": "Easy setup for all your Apple devices || Charges quickly in the case || Rich, high-quality audio and voice || IPX4 Sweat and water resistant || Case can be charged via lightning cable || Up to 6 hours charge with an extra 24 hours of charge stored in the case",
+		"category": "headphone",
+		"image": "https://www.laptopsdirect.co.uk/Images/MME73ZMA_1_Supersize.jpg?width=650&height=650&v=4",
+		"price": 178.99
+	},
+	{
+		"id": 15,
+		"company": "Apple",
+		"title": "AirPods Pro 2nd Generation 2022",
+		"details": "Easy setup for all your Apple devices || Charges quickly in the case || Rich, high-quality audio and voice || Active Noise Cancellation || Sweat and water resistant || Vent system for pressure equalisation",
+		"category": "headphone",
+		"image": "https://www.laptopsdirect.co.uk/Images/MQD83ZMA_1_Supersize.jpg?v=3",
+		"price": 269.99
+	},
+	{
+		"id": 16,
+		"company": "Apple",
+		"title": "AirPods with Charging Case 2nd Generation",
+		"details": "Easy setup for all your Apple devices || Charges quickly in the case || Rich, high-quality audio and voice",
+		"category": "headphone",
+		"image": "https://www.laptopsdirect.co.uk/Images/MV7N2ZMA_1_Supersize.jpg?width=650&height=650&v=3",
+		"price": 129.99
+	},
+	{
+		"id": 17,
+		"company": "Sony",
+		"title": "WI-C100 In-ear Wireless Headphones Black",
+		"details": "Up to 25 hours of battery life || DSEE restores frequencies lost in compression to produce high-quality sound that's closer to the original recording || Fine-tune your sound using the Sony || Headphones Connect app || Splash-proof and sweat-proof with an IPX4 rating || Easy hands-free calling and voice assistant",
+		"category": "headphone",
+		"image": "https://www.laptopsdirect.co.uk/Images/WIC100B.CE7_1_Supersize.png?v=3",
+		"price": 33.99
+	},
+	{
+		"id": 18,
+		"company": "Sony",
+		"title": "MDR-EX15LP In-ear Wired Headphones With Mic Black",
+		"details": "Enjoy clear, powerful sound with high-power neodymium magnets || Avoid annoying tangles with the Y-type cord and slider || Get a comfortable fit with hybrid silicone earbuds || Cord adjuster supplied",
+		"category": "headphone",
+		"image": "https://www.laptopsdirect.co.uk/Images/MDREX15APB.CE7_1_supersize.jpg?width=650&height=650&v=1",
+		"price": 14.99
+	},
+	{
+		"id": 19,
+		"company": "Xiaomi",
+		"title": "Mi True Wireless Earbuds Basic 2 Black",
+		"details": "Auto connect || Swappable ear tips || Intuitive one button control || 4 hour battery life with 8 hours stored in the case",
+		"category": "headphone",
+		"image": "https://www.laptopsdirect.co.uk/Images/BHR4272GL_1_Supersize.jpg?v=4",
+		"price": 28.99
+	},
+	{
+		"id": 20,
+		"company": "EPOS",
+		"title": "H3 Analogue Gaming Headset - Snow",
+		"details": "Connectivity - Wired || Audio - Stereo || Colour - Ghost white",
+		"category": "headset",
+		"image": "https://www.laptopsdirect.co.uk/Images/1000889_1_Supersize.png?v=2",
+		"price": 39.99
+	},
+	{
+		"id": 21,
+		"company": "Logitech",
+		"title": "Logitech USB Headset H340",
+		"details": "Connectivity - Wired || Audio - Stereo || Style - On Ear || Colour - Black",
+		"category": "headset",
+		"image": "https://www.laptopsdirect.co.uk/Images/981-000475_1_Supersize.jpg?width=650&height=650&v=3",
+		"price": 29.99
+	},
+	{
+		"id": 22,
+		"company": "Razer",
+		"title": "Kraken Green Gaming Headset in Green",
+		"details": "Connectivity - Wired || Audio - Stereo || Microphone - Detachable || Style - Over Ear || Colour - Green",
+		"category": "headset",
+		"image": "https://www.laptopsdirect.co.uk/Images/RZ04-02830200-R3M1_1_LargeProductImage.jpg?width=100&height=100&v=1",
+		"price": 69.99
+	},
+	{
+		"id": 23,
+		"company": "EPOS",
+		"title": "H3 Analogue Gaming Headset - Snow",
+		"details": "Connectivity - Wired || Audio - Stereo || Colour - Ghost white",
+		"category": "headset",
+		"image": "https://www.laptopsdirect.co.uk/Images/1000889_1_Supersize.png?v=2",
+		"price": 39.99
+	},
+	{
+		"id": 24,
+		"company": "Corsair",
+		"title": "Corsair USB 7.1 Void Elite Wireless White - Gaming Headset",
+		"details": "Connectivity - Wired || Audio - Stereo || Style - Over Ear || Microphone - Headset Microphone || Colour - White",
+		"category": "headset",
+		"image": "https://www.laptopsdirect.co.uk/Images/CA-9011202-EU_1_Supersize.png?width=650&height=650&v=3",
+		"price": 101.99
+	},
+	{
+		"id": 25,
+		"company": "MSI",
+		"title": "Immerse GH30V2 Gaming Headset",
+		"details": "Connectivity - Wired || Audio - Stereo || Style - Over Ear || Microphone - Headset Microphone || Colour - Black",
+		"category": "headset",
+		"image": "https://www.laptopsdirect.co.uk/Images/S37-2101001-SV1_1_supersize.jpg?v=1",
+		"price": 19.99
+	},
+	{
+		"id": 26,
+		"company": "Lenovo",
+		"title": "Stereo Analog Headset",
+		"details": "Headsets in the office is a key part of the modern workday || VOIP calls are quickly replacing traditional phone service and saving companies on big telecom costs || Comfort fit mono or stereo design || Adjustable headband and boom arm || 180 degree microphone",
+		"category": "headset",
+		"image": "https://www.laptopsdirect.co.uk/Images/4XD0K25030_1_Supersize.jpg?v=3",
+		"price": 9.99
+	},
+	{
+		"id": 27,
+		"company": "Razer",
+		"title": "Cynosa Lite - Essential Gaming Keyboard - UK",
+		"details": "Soft cushioned gaming-grade keys || 16.8 million customisable colour options || Razer Synapse 3 enabled || 10-key rollover || Spill-resistant durable design || Fully programmable keys with on-the-fly macro recording || Gaming mode option || 1000Hz ultrapolling",
+		"category": "keyboard",
+		"image": "https://www.laptopsdirect.co.uk/Images/RZ03-02741900-R3W1_1_Supersize.jpg?v=4",
+		"price": 39.99
+	},
+	{
+		"id": 28,
+		"company": "Razer",
+		"title": "DeathStalker V2 Pro Wireless Gaming Keyboard",
+		"details": "Razer Low-Profile Linear Optical Switches (Red) || Top-Class Connectivity || Ultra-Long 40-Hour Battery Life || Full Size keyboard || Razer Chroma RGB customisable backlighting with 16.8 million colour options",
+		"category": "keyboard",
+		"image": "https://www.laptopsdirect.co.uk/Images/RZ03-04360300-R3W1_1_Supersize.jpg?width=650&height=650&v=7",
+		"price": 222.99
+	},
+	{
+		"id": 29,
+		"company": "Microsoft",
+		"title": "Microsoft Wired Keyboard 600",
+		"details": "Media Center - Four hot keys let you control the most-used media activities. Quiet-touch Keys. Calculator Hot Key,with the touch of the button. || Spill Resistant, Design Enjoy a drink while you workthis keyboard is designed to withstand an accidental spill. || Windows Start Button,Press to launch your Start menu and search your PC or the Web if you have Windows Vista or later installed. || Compatibility, works with Windows and Mac || 3 Year Limited Warranty",
+		"category": "keyboard",
+		"image": "https://www.laptopsdirect.co.uk/Images/ANB-00006_1_classic.jpg?width=100&height=100&v=3",
+		"price": 9.99
+	},
+	{
+		"id": 30,
+		"company": "Dell",
+		"title": "QuietKey Keyboard USB KB212-B",
+		"details": "Ergonomic design increases comfort for extended use. Built to last with a sturdy and robust design. Classic black Dell design. || Quiet Keys, for extra comfort and productivity. || Compatible with Windows and MacOS, simply plug in the USB, no installation required. || 1 Year Warranty",
+		"category": "keyboard",
+		"image": "https://www.laptopsdirect.co.uk/Images/580-17608_1_Supersize.jpg?v=3",
+		"price": 24.99
+	},
+	{
+		"id": 31,
+		"company": "Razer",
+		"title": "Deathadder V3 Pro Gaming Mouse - White",
+		"details": "Programmable buttons - 5 || Wired or Wireless - Wireless || Mouse Type - Optical || Colour - White",
+		"category": "mouse",
+		"image": "https://www.laptopsdirect.co.uk/Images/RZ01-04630200-R3G1_1_Supersize.jpg?width=650&height=650&v=5",
+		"price": 124.99
+	},
+	{
+		"id": 32,
+		"company": "Razer",
+		"title": "Basilisk V3 Pro Wireless Gaming Mouse",
+		"details": "Programmable buttons - 11 || Wired or Wireless - Wireless || Mouse Type - Optical || Colour - Black",
+		"category": "mouse",
+		"image": "https://www.laptopsdirect.co.uk/Images/RZ01-04620100-R3G1_1_Supersize.jpg?v=3",
+		"price": 144.99
+	},
+	{
+		"id": 33,
+		"company": "Logitech",
+		"title": "G402 Hyperion Fury Ultra-Fast FPS Wired Gaming Mouse",
+		"details": "Programmable buttons - 8 || Wired or Wireless - Wireless || Mouse Type - Fusion Engine Hybrid",
+		"category": "mouse",
+		"image": "https://www.laptopsdirect.co.uk/Images/910-004068_1_LargeProductImage.jpg?width=100&height=100&v=2",
+		"price": 64.99
+	},
+	{
+		"id": 34,
+		"company": "Microsoft",
+		"title": "Microsoft 1850 Business Wireless Mobile Mouse in Black",
+		"details": "Programmable buttons - 3 || Wired or Wireless - Wireless || Mouse Type - Optical || Colour - Black",
+		"category": "mouse",
+		"image": "https://www.laptopsdirect.co.uk/Images/7MM-00002_1_Supersize.jpg?v=3",
+		"price": 14.99
+	},
+	{
+		"id": 35,
+		"company": "Lenovo",
+		"title": "ThinkPad Essential Wireless Mouse",
+		"details": "Ambidextrous design for both left and right hand comfort || 1200 DPI optical sensor || Travel size with 2.4 GHz nano receiver || Lenovo ThinkPad Essential Wireless Mouse || USB wireless receiver || 1 AA battery || Programmable buttons - 3 || Wired or Wireless - Wireless || Mouse Type - Optical || Colour - Black",
+		"category": "mouse",
+		"image": "https://www.laptopsdirect.co.uk/Images/4X30M56887_1_LargeProductImage.jpg?width=100&height=100&v=2",
+		"price": 19.99
+	},
+	{
+		"id": 36,
+		"company": "HP",
+		"title": "435 Multi-Device Wireless Mouse",
+		"details": "Programmable buttons - 5 || Wired or Wireless - Wireless || Colour - Black",
+		"category": "mouse",
+		"image": "https://www.laptopsdirect.co.uk/Images/3B4Q5AA_1_Supersize.png?width=650&height=650&v=5",
+		"price": 29.99
+	},
+	{
+		"id": 37,
+		"company": "Dell",
+		"title": "MS3320W Mobile Wireless Mouse",
+		"details": "Programmable buttons - 3 || Wired or Wireless - Wireless || Colour - Black",
+		"category": "mouse",
+		"image": "https://www.laptopsdirect.co.uk/Images/MS3320W-BLK_1_Supersize.jpg?width=650&height=650&v=2",
+		"price": 23.99
+	},
+	{
+		"id": 38,
+		"company": "electriQ",
+		"title": "electriQ 24 Full HD HDMI 2.1 Gaming Monitor",
+		"details": "Screen size: 24.5 || HDMI Type:2.1 || Resolution: Full HD (1920 x 1080) || Panel type: TN || Aspect ratio: 16:9 || Refresh rate: 240Hz || Response time: 5MS || VESA: 100 x 100mm",
+		"category": "monitor",
+		"image": "https://www.laptopsdirect.co.uk/Images/eiQ-25FHD280TFSGH_1_12197495_Supersize.jpg?v=5",
+		"price": 203.99
+	},
+	{
+		"id": 39,
+		"company": "LG",
+		"title": "LG 35WN65C-B 35 UltraWide QHD Curved Monitor",
+		"details": "Screen size - 35 Inch || Response time - 5MS Response Time / 100Hz Refresh Rate || Resolution - 3440 x 1440 || Panel type - VA || Ports - HDMI DisplayPort USB",
+		"category": "monitor",
+		"image": "https://www.laptopsdirect.co.uk/Images/35WN65C-B_1_Supersize.jpg?v=2",
+		"price": 359.99
+	},
+	{
+		"id": 40,
+		"company": "Acer",
+		"title": "Acer K243Y 23.8 IPS Full HD Monitor",
+		"details": "Screen size - 24 Inch || Response time - 1MS Response Time / 75Hz Refresh Rate || Resolution - 1920 x 1080 || Panel type - IPS || Ports - HDMI VGA",
+		"category": "monitor",
+		"image": "https://www.laptopsdirect.co.uk/Images/UM.QX3EE.002_1_Supersize.png?v=8",
+		"price": 124.99
+	},
+	{
+		"id": 41,
+		"company": "Lenovo",
+		"title": "Lenovo C24-20 23.8 Full HD Monitor",
+		"details": "Screen size - 23.8 Inch || Response time - 4MS Response Time / 60Hz Refresh Rate || Resolution - 1920 x 1080 || Panel type - VA || Ports - HDMI VGA",
+		"category": "monitor",
+		"image": "https://www.laptopsdirect.co.uk/Images/62A8KAT1UK_1_Supersize.jpg?v=9",
+		"price": 99.99
+	},
+	{
+		"id": 42,
+		"company": "Dell",
+		"title": "Dell P2422H 23.8 IPS Full HD Monitor",
+		"details": "Screen size - 23.8 Inch || Response time - 5MS Response Time / 60Hz Refresh Rate || Resolution - 1920 x 1080 || Panel type - IPS || Ports - HDMI VGA",
+		"category": "monitor",
+		"image": "https://www.laptopsdirect.co.uk/Images/62A8KAT1UK_1_Supersize.jpg?v=9",
+		"price": 179.99
+	},
+	{
+		"id": 43,
+		"company": "ASUS",
+		"title": "ASUS VA247HE 23.8 Full HD Monitor",
+		"details": "Screen size - 23.8 Inch || Response time - 5MS Response Time / 75Hz Refresh Rate || Resolution - 1920 x 1080 || Panel type - IPS || Ports - HDMI VGA",
+		"category": "monitor",
+		"image": "https://www.laptopsdirect.co.uk/Images/VA247HE_1_Supersize.jpg?v=5",
+		"price": 111.99
+	},
+	{
+		"id": 44,
+		"company": "HP",
+		"title": "HP EliteDisplay E273M 27 IPS Full HD Monitor",
+		"details": "Screen size - 27 Inch || Response time - 5MS Response Time / 60Hz Refresh Rate || Resolution - 1920 x 1080 || Panel type - IPS || Ports - HDMI VGA",
+		"category": "monitor",
+		"image": "https://www.laptopsdirect.co.uk/Images/1FH51AA_1_Supersize.jpg?v=3",
+		"price": 379.99
+	},
+	{
+		"id": 45,
+		"company": "Samsung",
+		"title": "Samsung C24F390 24 Full HD Curved Monitor",
+		"details": "Screen size - 24 Inch || Response time - 4MS Response Time / 60Hz Refresh Rate || Resolution - 1920 x 1080 || Panel type - IPS || Ports - HDMI VGA",
+		"category": "monitor",
+		"image": "https://www.laptopsdirect.co.uk/Images/LC24F390FHUXEN_1_Supersize.jpg?v=3",
+		"price": 149.99
+	},
+	{
+		"id": 46,
+		"company": "AOC",
+		"title": "AOC Q27G2U 27 QHD 144Hz 1ms Gaming Monitor",
+		"details": "Screen size - 27 Inch || Response time - 1MS Response Time / 144Hz Refresh Rate || Resolution - 2560 x 1440 || Panel type - IPS || Ports - HDMI VGA",
+		"category": "monitor",
+		"image": "https://www.laptopsdirect.co.uk/Images/Q27G2UBK_1_Supersize.jpg?width=650&height=650&v=5",
+		"price": 229.99
+	},
+	{
+		"id": 47,
+		"company": "Xiaomi",
+		"title": "Redmi Note 10S Onyx Grey 6.43 128GB 6GB 4G Unlocked & SIM Free",
+		"details": "Unlocked SIM Free || 5G Ready for the fastest network speeds around || Ultra-sharp Quadruple 64, 8, 2 and 2 Megapixel rear camera 13 Megapixel selfie camera || 6.43 FHD+ Display || Super fast MediaTek Helio G95 Octa Core Processor + 6GB of RAM || Android 11 OS || 128GB Storage",
+		"category": "phone",
+		"image": "https://www.laptopsdirect.co.uk/Images/MZB0939EN_1_Supersize.png?v=3",
+		"price": 209.99
+	},
+	{
+		"id": 48,
+		"company": "Xiaomi",
+		"title": "Redmi Note 10 Pro Onyx Grey 128GB 6GB 4G Unlocked & SIM Free Smartphone",
+		"details": "Unlocked SIM Free || 4G Ready for the fastest network speeds around || Ultra-sharp Quadruple 108, 8, 5 and 2 Megapixel rear camera 16 Megapixel selfie camera || 6.67 FHD+ Display || Super fast Snapdragon 732G Octa  Core Processor + 6GB of RAM || Android 11 OS || 128GB Storage",
+		"category": "phone",
+		"image": "https://www.laptopsdirect.co.uk/Images/MZB0947EN_1_Supersize.jpg?v=3",
+		"price": 249.99
+	},
+	{
+		"id": 49,
+		"company": "Samsung",
+		"title": "Galaxy A52s 5G Awesome Black 6.5 128GB 5G Dual SIM Unlocked & SIM Free Smartphone",
+		"details": "Unlocked SIM Free || 5G Ready for the fastest network speeds around || Ultra-sharp Quadruple 64, 12, 5 and Megapixel rear camera 32 Megapixel selfie camera || 6.5 FHD+ Display || Super fast Octa Core  Processor + 6GB of RAM || Android 11 OS || 128GB Storage and 1TB MicroSD Card Slot || Dual SIM",
+		"category": "phone",
+		"image": "https://www.laptopsdirect.co.uk/Images/SM-A528BZKDEUA_1_Supersize.png?width=650&height=650&v=5",
+		"price": 299.99
+	},
+	{
+		"id": 50,
+		"company": "Samsung",
+		"title": "Galaxy A53 5G Awesome Peach 6.5 128GB 5G Unlocked & SIM Free Smartphone",
+		"details": "Unlocked SIM Free || 5G Ready for the fastest network speeds around || Ultra-sharp Quadruple 64, 12, 12 and 5 Megapixel rear camera 32 Megapixel selfie camera || 6.5 FHD+ 120Hz Display || Super fast Octa Core Processor  + 6GB of RAM || Android 12 OS || 128GB Storage",
+		"category": "phone",
+		"image": "https://www.laptopsdirect.co.uk/Images/SM-A536BZONEUB_1_Supersize.png?v=3",
+		"price": 349.99
+	},
+	{
+		"id": 51,
+		"company": "Apple",
+		"title": "iPhone 14 Midnight 6.1 128GB 5G Unlocked & SIM Free Smartphone",
+		"details": "Unlocked SIM Free || 5G Ready for the fastest network speeds around || Ultra-sharp Dual 12 Megapixel rear camera 12 Megapixel selfie camera || 6.1 FHD+ Display || Super fast Apple A15 Bionic Chip Hexa Core Processor + 6GB of RAM || iOS 16 || 128GB Storage",
+		"category": "phone",
+		"image": "https://www.laptopsdirect.co.uk/Images/MPUF3ZDA_1_Supersize.jpg?width=650&height=650&v=2",
+		"price": 849.99
+	},
+	{
+		"id": 52,
+		"company": "Google",
+		"title": "Pixel 7 Obsidian Black 6.3 128GB 5G Unlocked & SIM Free Smartphone",
+		"details": "Unlocked SIM Free || 5G Ready for the fastest network speeds around || Ultra-sharp Dual 50 and 12 Megapixel rear camera 10.8 Megapixel selfie camera || 6.3 FHD+ 90Hz Display || Super fast Google Tensor G2 Octa Core Processor + 8GB of RAM || Android 13 OS || 128GB Storage",
+		"category": "phone",
+		"image": "https://www.laptopsdirect.co.uk/Images/GA03923-GB_1_Supersize.png?width=650&height=650&v=5",
+		"price": 579.99
+	},
+	{
+		"id": 53,
+		"company": "OPPO",
+		"title": "Find X3 Lite 5G Starry Black 6.4 128GB 5G Dual SIM Unlocked & SIM Free",
+		"details": "Unlocked SIM Free || 5G Ready for the fastest network speeds around || Ultra-sharp Quadruple 64, 8, 2 and 2 Megapixel rear camera 32 Megapixel selfie camera || 6.14 FHD+ 90Hz Display || Super fast Qualcomm Snapdragon 765G Octa Core Processor + 8GB of RAM || Android 11 OS || 128GB Storage",
+		"category": "phone",
+		"image": "https://www.laptopsdirect.co.uk/Images/CPH2145BLK_1_12053396_Supersize.jpg?v=5",
+		"price": 239.99
+	},
+	{
+		"id": 54,
+		"company": "OnePlus",
+		"title": "Nord Blue Marble 6.44 12GB + 256GB 5G Dual SIM Unlocked & SIM Free Smartphone",
+		"details": "Unlocked SIM Free || 4G Ready for the fastest network speeds around || Ultra-sharp QQuadruple 48MP + 8MP + 5MP + 2MPrear camera Dual 32 and 8 Megapixel selfie camera || 6.44 FHD+ 90Hz Display || Super fast Qualcomm Snapdragon 765G Octa Core Processor + 12GB of RAM || OxygenOS based on Android 10 || 256GB Storage",
+		"category": "phone",
+		"image": "https://www.laptopsdirect.co.uk/Images/OP-NORD-12256-BLUE_1_Supersize.jpg?width=650&height=650&v=5",
+		"price": 349.99
+	},
+	{
+		"id": 55,
+		"company": "Apple",
+		"title": "iPad 2022 10.9 Blue 64GB Wi-Fi Tablet",
+		"details": "A14 Bionic Ship || 12MP Back Wide Camera || 12MP Landscape Ultra Wide Front Camera || Unlock With Touch ID",
+		"category": "tablet",
+		"image": "https://www.laptopsdirect.co.uk/Images/MPQ13BA_1_Supersize.jpg?v=3",
+		"price": 479.99
+	},
+	{
+		"id": 56,
+		"company": "Apple",
+		"title": "iPad 2021 10.2 Space Grey 256GB Wi-Fi Tablet",
+		"details": "Connectivity - WiFi || Storage - 256GB || RAM - 3GB || Run time - 10 hours || Warranty - 1 year warranty",
+		"category": "tablet",
+		"image": "https://www.laptopsdirect.co.uk/Images/MK2N3BA_1_Supersize.jpg?v=12",
+		"price": 529.99
+	},
+	{
+		"id": 57,
+		"company": "Microsoft",
+		"title": "Surface Pro 7+ 56GB 12.3 Tablet - Black",
+		"details": "Processor - Intel Core i7 I7-1165G7 || Screen size - 12.3 Inch 2736 x 1824 Screen || Operating System - Windows 10 Pro || Storage - 256GB || RAM - 16GB || Run time - 15 Hours || Warranty - 1 year warranty",
+		"category": "tablet",
+		"image": "https://www.laptopsdirect.co.uk/Images/1NC-00017_1_Supersize.jpg?v=12",
+		"price": 1401.99
+	},
+	{
+		"id": 58,
+		"company": "Microsoft",
+		"title": "Surface Pro 8 Intel Core i5-1145G7 8GB 256GB 13 Windows 11 Pro - Platinum",
+		"details": "Storage - 256GB || RAM - 8GB || Run time - 16 Hours || Warranty - 1 year warranty",
+		"category": "tablet",
+		"image": "https://www.laptopsdirect.co.uk/Images/A18PR-00002_2_Supersize.jpg?v=8",
+		"price": 1099.99
+	},
+	{
+		"id": 59,
+		"company": "Lenovo",
+		"title": "ThinkPad X1 Fold Intel Core i5 8GB 256GB SSD 13.3 OLED Windows 10 Pro Tablet",
+		"details": "Intel Core i5-L16G7 Processor || 8GB of RAM || 256GB SSD || OLED Foldable Touchscreen || Wi-Fi 6 || Up to 10.6 Hours of Run Time",
+		"category": "tablet",
+		"image": "https://www.laptopsdirect.co.uk/Images/20RL000FUK_1_Supersize.png?v=3",
+		"price": 599.99
+	},
+	{
+		"id": 60,
+		"company": "Lenovo",
+		"title": "Tab M8 HD 8 Grey 32GB Cellular Tablet",
+		"details": "Connectivity - Wifi & Cellular || Storage - 32GB || RAM - 2GB || Run time - 18hours || Warranty - 1 year warranty",
+		"category": "tablet",
+		"image": "https://www.laptopsdirect.co.uk/Images/ZA5H0117GB_1_LargeProductImage.jpg?width=100&height=100&v=3",
+		"price": 199.99
+	},
+	{
+		"id": 61,
+		"company": "Samsung",
+		"title": "Galaxy Tab Active Pro 10.1 Black 64GB 4G Tablet",
+		"details": "64GB Of Storage || 4GB Of RAM || S Pen Included || 15 Hours Of Run Time || 2 Year Warranty || Knox Security",
+		"category": "tablet",
+		"image": "https://www.laptopsdirect.co.uk/Images/SM-T545NZKAU07_1_11969762_Supersize.jpg?v=16",
+		"price": 499.99
+	},
+	{
+		"id": 62,
+		"company": "Samsung",
+		"title": "Galaxy Tab A8 10.5 Graphite 64GB 4G Tablett",
+		"details": "Connectivity - WiFi || Storage - 64GB || RAM - 4GB || Warranty - 2 year warranty",
+		"category": "tablet",
+		"image": "https://www.laptopsdirect.co.uk/Images/SM-X205NZAEEUA_1_Supersize.jpg?width=650&height=650&v=3",
+		"price": 279.99
+	}
+]

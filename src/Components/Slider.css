@@ -1,0 +1,6 @@
+/* .slide{
+    height: 400px;
+} */
+.slide img{
+    height: calc(100vh - 80px);
+}

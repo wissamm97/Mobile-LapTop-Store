@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "category": "laptop"
+    },
+    {
+        "id": 2,
+        "category": "headphone"
+    },
+    {
+        "id": 3,
+        "category": "headset"
+    },
+    {
+        "id": 4,
+        "category": "keyboard"
+    },
+    {
+        "id": 5,
+        "category": "mouse"
+    },
+    {
+        "id": 6,
+        "category": "monitor"
+    },
+    {
+        "id": 7,
+        "category": "tablet"
+    }
+]
